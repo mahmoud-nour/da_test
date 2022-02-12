@@ -48,5 +48,6 @@ import pandas as pd
 
 x=np.datetime64('2019-02-24')
 y=np.arange(10)
-x+y
+x-y
+x*y
 
